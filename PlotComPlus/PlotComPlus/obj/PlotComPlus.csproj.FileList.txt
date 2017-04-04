@@ -1,0 +1,10 @@
+bin\Debug\plot_complus.exe.config
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PlotComPlus.Gui.Form1.resources
+obj\Debug\PlotComPlus.csproj.GenerateResource.Cache
+bin\Debug\plot_complus.exe
+bin\Debug\plot_complus.pdb
+bin\Debug\ZedGraph.dll
+bin\Debug\ZedGraph.xml
+obj\Debug\plot_complus.exe
+obj\Debug\plot_complus.pdb

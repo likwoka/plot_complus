@@ -1,0 +1,10 @@
+D:\tempu\PlotComPlus\PlotComPlus.Tests\bin\Debug\PlotComPlus.Tests.dll
+D:\tempu\PlotComPlus\PlotComPlus.Tests\bin\Debug\PlotComPlus.Tests.pdb
+D:\tempu\PlotComPlus\PlotComPlus.Tests\bin\Debug\nunit.framework.dll
+D:\tempu\PlotComPlus\PlotComPlus.Tests\bin\Debug\plot_complus.exe
+D:\tempu\PlotComPlus\PlotComPlus.Tests\bin\Debug\ZedGraph.dll
+D:\tempu\PlotComPlus\PlotComPlus.Tests\bin\Debug\ZedGraph.xml
+D:\tempu\PlotComPlus\PlotComPlus.Tests\bin\Debug\plot_complus.pdb
+D:\tempu\PlotComPlus\PlotComPlus.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\tempu\PlotComPlus\PlotComPlus.Tests\obj\Debug\PlotComPlus.Tests.dll
+D:\tempu\PlotComPlus\PlotComPlus.Tests\obj\Debug\PlotComPlus.Tests.pdb

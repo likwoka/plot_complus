@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\PlotComPlus.Tests.dll
+bin\Debug\PlotComPlus.Tests.pdb
+bin\Debug\nunit.framework.dll
+bin\Debug\plot_complus.exe
+bin\Debug\ZedGraph.dll
+bin\Debug\ZedGraph.xml
+bin\Debug\plot_complus.pdb
+obj\Debug\PlotComPlus.Tests.dll
+obj\Debug\PlotComPlus.Tests.pdb
